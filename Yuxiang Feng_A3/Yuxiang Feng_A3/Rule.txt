@@ -1,0 +1,21 @@
+The following are the specific scoring rules:
+
+1.Combination points can only be obtained in the same round. For example, when the player rolls the dice in the first round,
+  the six dice are ¡°5, 5, 2, 3, 4, 6, 6¡±. Currently the player decides to keep these two dice with 5 points. 
+  In the second round, he will only roll four dice. The points he got were ¡°5, 3, 3, 6¡±. 
+  Currently, the player chooses to keep 5 points. Therefore, there are three ¡°5 points¡± dice in his dice dock. 
+  However, these three dice are not obtained at the same time, so his score is 150 points, not 500 points.
+
+2.Situations players may encounter in a game:
+	-> 2.1 The player rolls the dice and puts at least one dice from the result. If it is unfortunate that none of 
+	       them can be put on hold, then it is called FARKLE.
+	-> 2.2 The player keeps rolling the dice until all six dice are put on hold, then the player can roll a new set of dice 
+	       and temporarily store the scores obtained by the first six dice.
+	-> 2.3 If six dice are successfully set aside, but FARKLE appears in the next round. Therefore, players will lose 
+	       unsaved scores, including those in the previous group that was only temporarily saved but not actually saved.
+
+3.Any FARKLE will lose unsaved scores and hand over the game opportunity to the next player. 
+
+
+
+

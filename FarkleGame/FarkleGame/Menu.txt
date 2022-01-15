@@ -1,0 +1,17 @@
+							 Wlcome to the FARKLE game
+
+							 [1] Start the new game
+
+							 [2] Show the setting page
+
+							 [3] Display "About" Information
+
+							 [4] Show the Rule
+
+							 [5] Show the Example
+
+							 [6] Quit the game
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
