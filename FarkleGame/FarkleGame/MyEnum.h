@@ -1,4 +1,3 @@
-
 #ifndef MYENUM_H
 #define MYENUM_H
 

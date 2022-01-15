@@ -1,4 +1,3 @@
-
 #include "Player.h"
 
 int Player::playerID = 0; // Initialize static variables

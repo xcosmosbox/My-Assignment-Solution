@@ -1,4 +1,3 @@
-
 #include"AskForAny_FileStream.h"
 
 using namespace std;

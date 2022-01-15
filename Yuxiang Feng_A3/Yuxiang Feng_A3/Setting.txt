@@ -1,8 +1,0 @@
-						 The system default AI character is: Coward
-
-						 [1] Coward (Satisfied with the minimum target score)
-						 [2] Dreadnaught (Like maximum score)
-						 [3] Gambler (Make every choice carefully)
-						 [4] Return the menu page
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

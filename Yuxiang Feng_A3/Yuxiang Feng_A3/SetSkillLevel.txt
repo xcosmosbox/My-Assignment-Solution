@@ -1,4 +1,0 @@
-
-						 [1] ROOKIE (Target score:5000)
-						 [2] ROLLER (Target score:10000)
-						 [3] HIGH_ROLLER (Target score:20000)
