@@ -30,8 +30,6 @@ private:
     void setDiceValue(int index, DiceEnumType value); //It is only used for syntax identification. In fact, the user does not have permission to manually set the value of the dice. User can only roll the dice by calling the rollDice() function
     void setMinScoreInRound(SkillLevelEnumType skillLevel);//It is only used for syntax identification. The user cannot directly set the minimum saving score. This function needs to be called by the constructor during initialization.
     void setCountUnfarkle(int number);//It is only used for syntax identification.
-
-
 public:
     Dice(SkillLevelEnumType skillLevel);
     ~Dice();
